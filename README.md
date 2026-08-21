@@ -8,9 +8,10 @@ It works especially well on **drums, percussion, leads, synths and buses**, and 
 
 ![Multiband Sample Delay by XS](Multiband%20Sample%20Delay%20by%20XS.png)
 
+**Watch video on Youtube
+
 [![Watch Demo Video](https://img.youtube.com/vi/TkmwbnOHvA0/maxresdefault.jpg)](https://youtu.be/TkmwbnOHvA0)
 
-**[▶ Watch Demo Video](https://youtu.be/TkmwbnOHvA0)**
 
 ## Features
 
