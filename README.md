@@ -1,6 +1,6 @@
 # Multiband Sample Delay by XS
 
-**Multiband Sample Delay by XS** is a free multiband stereo processing plugin designed for precise timing control, stereo widening and rhythmic enhancement.
+**Multiband Sample Delay by XS** is a free multiband stereo processing plugin designed for precise timing control, stereo widening and rhythmic enhancement for Windows and macOS. VST3, AU and CLAP
 
 By processing different frequency ranges independently, it allows you to create width, movement and additional rhythmic detail without applying the same delay to the entire frequency spectrum.
 
